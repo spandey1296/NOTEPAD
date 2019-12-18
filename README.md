@@ -1,24 +1,11 @@
-
-package Learnprogramming;
-
-import java.io.IOException;
-
-public class Main {
-
-    public static void main(String[] args) {
-
-        Runtime rs = Runtime.getRuntime();
-        try {
+WELCOME TO CODER2HACKER  ZONE.
 
 
-            rs.exec("notepad");
-        } catch (IOException e) {
-
-            System.out.println(e);
+THIS PROJECT IS ABOUT NOTEPAD THAT A USER CAN OPEN NOTEPAD USING JAVA SIMPLE CODE IN THEIR PROJECT CODE WHENEVER NEEDED.
 
 
-        }
+REGARDS
+SHIVANT PANDEY
+CHITKARA UNIVERSITY HP
 
-    }
-}
-
+LET'S CODE, PLAY, AND ENJOY CODING.
